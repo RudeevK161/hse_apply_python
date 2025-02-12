@@ -1,3 +1,4 @@
 aiohttp==3.11.11
 aiogram==3.17.0
 asyncio==3.4.3
+python-dotenv==1.0.1
